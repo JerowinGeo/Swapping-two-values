@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: Jerowin Geo J A
+#RegisterNumber: 23013644
+
+a=input()
+b=input()
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
+```
+## OUTPUT:
+![image](https://github.com/JerowinGeo/Swapping-two-values/assets/147139744/724546b7-8547-4ba4-8cf6-81c8b85f5a3f)
 
 
 
